@@ -3,7 +3,7 @@ Scarab-V3
 
 FPV Spider Hexacopter designed by Clayton Harp aka gearwolf
 
-!(https://raw.githubusercontent.com/gearwolf-OP/Scarab-V3/master/Overall%20View.JPG)
+https://raw.githubusercontent.com/gearwolf-OP/Scarab-V3/master/Overall%20View.JPG
 
 
 Scarab V3
