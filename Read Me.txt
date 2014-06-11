@@ -1,0 +1,26 @@
+Scarab V3
+
+Spider FPV hexacopter designed by Clayton Harp
+
+
+
+
+
+
+
+Bom
+
+1 pack    18-8 Ss Button Head Socket Cap Screw, 4-40 Thread, 3/16" Length   (www.mcmaster.com // Part Number: 92949A105)
+1 pack    18-8 Ss Button Head Socket Cap Screw, 4-40 Thread, 7/16" Length   (www.mcmaster.com // Part Number: 92949A111)
+10         Aluminium Female Threaded Hex Standoff, 1/4" Hex, 3/4" Length, 4-40 Screw Size     (www.mcmaster.com // Part Number: 91780A515)
+27         Aluminium Female Threaded Hex Standoff, 1/4" Hex, 1/4" Length, 4-40 Screw Size     (www.mcmaster.com // Part Number: 91780A720)
+22         Aluminium Female Threaded Hex Standoff, 1/4" Hex, 1/2" Length, 4-40 Screw Size     (www.mcmaster.com // Part Number: 91780A735)
+4          Aluminium Female Threaded Hex Standoff, 1/4" Hex, 1" Length, 4-40 Screw Size   (www.mcmaster.com // Part Number: 91780A517)
+4          Aluminium Female Threaded Hex Standoff, 1/4" Hex, 2" Length, 4-40 Screw Size   (www.mcmaster.com // Part Number: 91780A126)
+
+
+6 vibrationless balls found at Foxtech or RMRC
+or
+6 GetFPV anti vibration 
+
+
