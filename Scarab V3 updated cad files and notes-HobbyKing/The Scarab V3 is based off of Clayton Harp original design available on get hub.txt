@@ -1,0 +1,6 @@
+The Scarab V3 is based off of Clayton Harp original design available on get hub 
+https://github.com/gearwolf-OP/Scarab-V3
+It has had a few changes to make it more compatible with a range of hardware and to make it lighter.
+• The frame stacks have had the lightening holes adjusted for better strength and weight savings
+• The arms have been redesigned to accept most motor options and an Aluminum optimized design for greater strength and lighter over the G10 version
+
